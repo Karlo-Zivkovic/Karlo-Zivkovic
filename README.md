@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Total beginner</b>
-  - [Steps]()
+  - [Steps](https://github.com/Karlo-Zivkovic/Steps/tree/main)
   - [Pizza-menu]()
   - [Expense-tracker]()
 - <b>Javascript</b>

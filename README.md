@@ -1,4 +1,4 @@
-<h1>Hi, I'm Karlo!</h1>
+<h1>Hi, I'm Karlo! Check out my projects below!</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

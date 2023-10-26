@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<b>My programming journey started 6 months ago</b>
+
 - <b>Month 1/2</b>
   - [Steps](https://github.com/Karlo-Zivkovic/Steps/tree/main)
   - [Pizza-menu](https://github.com/Karlo-Zivkovic/Pizza-menu)

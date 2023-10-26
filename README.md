@@ -21,6 +21,7 @@
   - [Fast React Pizza](https://github.com/Karlo-Zivkovic/Fast-React-Pizza)
   - [Worldwise](https://github.com/Karlo-Zivkovic/Worldwise)
   - [Forkify](https://github.com/Karlo-Zivkovic/Forkify)
+  - [The wild oasis](https://github.com/Karlo-Zivkovic/The-wild-oasis)
 
 
 

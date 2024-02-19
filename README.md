@@ -7,6 +7,7 @@
   - [Snapgram](https://github.com/Karlo-Zivkovic/Snapgram)
   - [MyStore](https://github.com/Karlo-Zivkovic/MyStore)
   - [Movies](https://github.com/Karlo-Zivkovic/Movies)
+  - [SearchMeals](https://github.com/Karlo-Zivkovic/SearchMeals)
 
 
 

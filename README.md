@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [The wild oasis](https://github.com/Karlo-Zivkovic/The-wild-oasis)
-  - [Ehya](https://github.com/Karlo-Zivkovic/Ehya)
   - [Snapgram](https://github.com/Karlo-Zivkovic/Snapgram)
   - [MyStore](https://github.com/Karlo-Zivkovic/MyStore)
   - [Movies](https://github.com/Karlo-Zivkovic/Movies)
   - [SearchMeals](https://github.com/Karlo-Zivkovic/SearchMeals)
+  - [Ehya](https://github.com/Karlo-Zivkovic/Ehya)
 
 
 

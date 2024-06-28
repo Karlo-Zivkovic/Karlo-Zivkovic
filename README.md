@@ -7,7 +7,6 @@
   - [MyStore](https://github.com/Karlo-Zivkovic/MyStore)
   - [Movies](https://github.com/Karlo-Zivkovic/Movies)
   - [SearchMeals](https://github.com/Karlo-Zivkovic/SearchMeals)
-  - [Ehya](https://github.com/Karlo-Zivkovic/Ehya)
   - [Volunteers](https://github.com/Karlo-Zivkovic/Volunteers)
   - [Tutors](https://github.com/Karlo-Zivkovic/Tutors)
 
